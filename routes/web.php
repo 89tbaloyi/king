@@ -25,3 +25,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('/tows', 'TowsController');
 Route::resource('/employees', 'EmployeesController');
 Route::resource('/projects', 'ProjectsController');
+Route::resource('/aceessories', 'AceessoriewController');

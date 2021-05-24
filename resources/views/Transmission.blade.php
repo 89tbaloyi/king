@@ -1,6 +1,6 @@
 @extends('layout.app')
 
-@@section('name')
+@section('name')
 
 <head>
     <style>

@@ -27,3 +27,4 @@ Route::resource('/employees', 'EmployeesController');
 Route::resource('/projects', 'ProjectsController');
 Route::resource('/aceessories', 'AceessoriewController');
 Route::resource('/transmission', 'TransmissionController');
+Route::resource('/Salaries', 'SalariesController');

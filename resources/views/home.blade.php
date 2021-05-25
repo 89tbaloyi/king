@@ -316,7 +316,7 @@
                 <div class="card-body">
                   <div class="row align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-uppercase mb-1">Earnings (Monthly)</div>
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">Current Stock (Monthly)</div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">$40,000</div>
                       <div class="mt-2 mb-0 text-muted text-xs">
                         <span class="text-success mr-2"><i class="fa fa-arrow-up"></i> 3.48%</span>
@@ -336,11 +336,11 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-uppercase mb-1">Sales</div>
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">Staff on Duty</div>
                       <div class="h5 mb-0 font-weight-bold text-gray-800">650</div>
                       <div class="mt-2 mb-0 text-muted text-xs">
                         <span class="text-success mr-2"><i class="fas fa-arrow-up"></i> 12%</span>
-                        <span>Since last years</span>
+                        <span>Today</span>
                       </div>
                     </div>
                     <div class="col-auto">
@@ -356,11 +356,11 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-uppercase mb-1">New User</div>
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">Product Deliveries</div>
                       <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">366</div>
                       <div class="mt-2 mb-0 text-muted text-xs">
                         <span class="text-success mr-2"><i class="fas fa-arrow-up"></i> 20.4%</span>
-                        <span>Since last month</span>
+                        <span>products to be deliverd</span>
                       </div>
                     </div>
                     <div class="col-auto">
@@ -376,11 +376,11 @@
                 <div class="card-body">
                   <div class="row no-gutters align-items-center">
                     <div class="col mr-2">
-                      <div class="text-xs font-weight-bold text-uppercase mb-1">Pending Requests</div>
-                      <div class="h5 mb-0 font-weight-bold text-gray-800">18</div>
+                      <div class="text-xs font-weight-bold text-uppercase mb-1">Workshop Jobs</div>
+                      <div class="h5 mb-0 font-weight-bold text-gray-800">1</div>
                       <div class="mt-2 mb-0 text-muted text-xs">
                         <span class="text-danger mr-2"><i class="fas fa-arrow-down"></i> 1.10%</span>
-                        <span>Since yesterday</span>
+                        <span>Jobs that still need to complete</span>
                       </div>
                     </div>
                     <div class="col-auto">
@@ -600,7 +600,7 @@
 
           <div class="row">
             <div class="col-lg-12 text-center">
-              <p>Do you like this template ? you can download from <a href="https://github.com/indrijunanda/RuangAdmin"
+              <p>App was designed and deployed by A30 SS <a href="https://github.com/indrijunanda/RuangAdmin"
                   class="btn btn-primary btn-sm" target="_blank"><i class="fab fa-fw fa-github"></i>&nbsp;GitHub</a></p>
             </div>
           </div>
@@ -612,8 +612,8 @@
       <footer class="sticky-footer bg-white">
         <div class="container my-auto">
           <div class="copyright text-center my-auto">
-            <span>copyright &copy; <script> document.write(new Date().getFullYear()); </script> - developed by
-              <b><a href="https://indrijunanda.gitlab.io/" target="_blank">indrijunanda</a></b>
+            <span>copyright A30 SS <script> document.write(new Date().getFullYear()); </script> - developed by
+              <b><a href="https://indrijunanda.gitlab.io/" target="_blank">www.A30SoftwareSolutions</a></b>
             </span>
           </div>
         </div>

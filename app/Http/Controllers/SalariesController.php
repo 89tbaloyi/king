@@ -85,4 +85,11 @@ class SalariesController extends Controller
     {
         return view('salaries');
     }
+
+    public function Calc()
+    {
+        $hours = $_POST['time'];
+        $wage = $hours * 15;
+        return "Wage is " + $wage;
+    }
 }

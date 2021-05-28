@@ -23,7 +23,7 @@
           <input type="text" class="form-control" id="wage" placeholder="Wage">    
         </div>
       
-        <a class="btn btn-primary">Calculate</a>
+        <button type="submit" class="btn btn-primary">Calculate</button>
       </form>
     </div>
   </div>

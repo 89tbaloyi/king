@@ -25,4 +25,10 @@
             </tbody>
           </table>
     </div>
+    <button type="button" class="btn btn-primary">
+        Pending Jobs <span class="badge bg-secondary">4</span>
+      </button>
+    <div>
+
+    </div>
 @endsection
